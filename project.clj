@@ -1,5 +1,5 @@
-(defproject org.clojure/core.logic "0.8.11-SNAPSHOT"
-  :description "A logic/relational programming library for Clojure"
+(defproject net.reborg/core.logic "0.8.11-SNAPSHOT"
+  :description "A logic/relational programming library for Clojure, patched to remove indexed? warning."
   :parent [org.clojure/pom.contrib "0.0.25"]
 
   :jvm-opts ^:replace ["-Xmx512m" "-server"]
