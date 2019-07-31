@@ -1,4 +1,4 @@
-(defproject net.reborg/core.logic "0.8.11-SNAPSHOT"
+(defproject net.reborg/core.logic "0.8.12"
   :description "A logic/relational programming library for Clojure, patched to remove indexed? warning."
   :parent [org.clojure/pom.contrib "0.0.25"]
 
